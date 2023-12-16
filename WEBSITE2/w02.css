@@ -1,0 +1,19 @@
+        div.space {
+            width: 99%;
+            height: 3%;
+        }
+        
+        p.font-1 {
+            position: relative;
+            margin-top: 70px;
+            font-size: 400%;
+            margin-left: 5%;
+            clear: left;
+        }
+        
+        img.img-bg {
+            width: 30%;
+            height: 30%;
+            float: right;
+            position: relative;
+        }
