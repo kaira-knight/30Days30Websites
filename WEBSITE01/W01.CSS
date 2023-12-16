@@ -132,8 +132,7 @@ a.logo {
 
 a.logo:hover {
   transform: scale(1.2);
-  color: rgb(173, 68, 94);
-  background-color: rgb(245, 240, 240);
+  background-color: coral;
 }
 
 a.btn-an {
