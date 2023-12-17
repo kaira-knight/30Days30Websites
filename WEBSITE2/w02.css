@@ -30,7 +30,7 @@ p.font2 {
 
 .imgBg {
     width: 60%;
-    height: 40%;
+    height: 20%;
     float: right;
     position: relative;
     padding-top: 30px;
@@ -40,15 +40,14 @@ p.font2 {
     width: 100%;
     height: 100%;
     float: left;
-    padding-top: 30px;
-    padding-left: 40px;
+    padding-top: 25px;
+    padding-left: 550px;
 }
 
 .buttons {
     float: center;
-    padding-left: 50px;
-    padding-top: 0%;
-    z-index: 100;
+    padding-left: 160px;
+    padding-top: -130px;
 }
 
 .button1 {
@@ -60,7 +59,7 @@ p.font2 {
     margin-bottom: -50px;
     text-align: center;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 .button2 {
@@ -77,17 +76,17 @@ p.font2 {
 
 .button3 {
     float: right;
-    width: 120px;
+    width: 130px;
     font-weight: 500;
-    height: 30px;
-    color: rgb(12, 12, 12);
-    border: 1px solid rgb(12, 12, 12);
+    height: 35px;
+    color: whitesmoke;
+    border: 1px solid rgb(14, 13, 13);
     border-radius: 5px;
-    color: rgb(12, 12, 12);
+    align-items: center;
     position: relative;
-    background-color: whitesmoke;
+    background-color: rgb(12, 12, 12);
     padding: center;
-    margin-right: 30px;
+    margin-right: 20px;
     margin-top: 15px;
     font-size: 14px;
 }
@@ -99,7 +98,7 @@ p.font2 {
     border: 0.5px solid rgb(255, 255, 255);
 }
 
-.topnav a {
+.topnav nav {
     float: left;
     display: block;
     color: rgb(156, 141, 0);
@@ -108,20 +107,29 @@ p.font2 {
     margin-top: 5px;
     margin-bottom: 5px;
     text-decoration: none;
-    font-size: 22px;
+    font-size: 20px;
 }
 
-.topnav a:hover {
+.topnav nav:hover {
     background-color: rgb(66, 64, 64);
     color: rgb(250, 242, 242);
 }
 
-.topnav a.active {
+.topnav nav.active {
     background-color: #2196F3;
     color: white;
 }
 
-.rectangle {
+.rectangle1 {
+    height: 2px;
+    width: 1500px;
+    margin-top: 100px;
+    margin-left: 0px;
+    float: center;
+    background-color: #ece8e86c;
+}
+
+.rectangle2 {
     height: 2px;
     width: 500px;
     margin-top: 50px;
