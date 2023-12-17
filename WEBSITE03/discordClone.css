@@ -1,0 +1,96 @@
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+.navBar {
+  background-color: rgba(56, 56, 94, 0.37);
+  height: 70px;
+  width: 100%;
+  position: fixed;
+}
+
+/*
+.logo {
+  padding: 20px 20px 20px 20px;
+  z-index: 1;
+}
+NOTE: Logo ke liye h, thoda adjust kar lena
+*/
+
+.logoText {
+  text-decoration: none;
+  font-size: 30px;
+  color: whitesmoke;
+  font-family: Helvetica, sans-serif;
+  float: left;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+
+.btn1 {
+  float: center;
+  text-decoration: none;
+  color: whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  margin-top: 40px;
+  margin-left: 20px;
+  padding: 10px 10px 10px 10px;
+}
+
+.btn2 {
+float: right;
+width: 100px;
+    height: 30px;
+    border: 1px solid rgb(14, 13, 13);
+    border-radius: 25px;
+    color: rgb(14, 13, 13);
+    position: relative;
+    background-color: rgb(248, 245, 245);
+    padding: center;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.imgBg {
+  background-image: url("discordBg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+/* 
+.rectangle {
+  height: 100%;
+  width: 100%;
+  background-blend-mode: multiply;
+  float: center;
+  background-color: #e2dede28;
+}
+NOTE: Opacity decrease karne ke liye h, thoda adjust kar lena
+*/
+
+.mainText {
+  color: whitesmoke;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-size: 60px;
+  font-weight: 700;
+  padding-top: 200px;
+}
+
+.subText {
+  color: whitesmoke;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 300;
+  padding-top: -150px;
+  padding-bottom: 150px;
+}
