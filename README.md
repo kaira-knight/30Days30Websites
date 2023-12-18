@@ -14,3 +14,6 @@ This website is a clone of Discord's landing page using HTML and CSS
 
 WEBSITE 04
 This website is another clone of a well known website, SonyLiv's landing page using HTML and CSS
+
+WEBSITE 05
+This website is a two paged website of a coffee shop website using HTML and CSS 
