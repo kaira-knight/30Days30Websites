@@ -93,9 +93,6 @@ a.btn1:hover::before {
     transform: scaleX(1);
 }
 
-.searchIcon {}
-
-.login {}
 
 .imgBg {
     z-index: -1.0;
@@ -107,10 +104,6 @@ a.btn1:hover::before {
     width: 100%;
     position: absolute;
 }
-
-.logoText {}
-
-.subText {}
 
 .lowerBtns {
     padding-left: 120px;
