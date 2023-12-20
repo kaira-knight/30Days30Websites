@@ -1,0 +1,159 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+
+/* 
+.imgBg {
+  background-image: url("bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+NOTE: bg hide kar raha h baaki sare elements ko, ek baar dekh lo isko
+*/
+
+.logo {
+  z-index: -2.0;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+  color: rgb(15, 15, 15);
+  padding-top: 20px;
+  padding-left: 30px;
+}
+
+.header-menu {
+  z-index: -2.0;
+  padding-bottom: 80px;
+padding-left: 100px;
+float: center;
+margin-left: 200px;
+}
+
+.btn1 {
+text-decoration: none;
+float: center;
+color: rgb(15, 15, 15);
+  padding-left: 60px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.search {
+  float: right;
+  height: 20px;
+  width: 150px;
+  margin-right: 40px;
+}
+
+.subText {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 25px;
+  padding-left: 50px;
+  margin-top: 100px;
+  color: black; /*NOTE: color coordinate kar lena accordingly */
+}
+
+.mainText {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+  padding-left: 50px;
+  margin-top: -35px;
+  color: black; /*NOTE: color coordinate kar lena accordingly */
+}
+
+.btn2 {
+  background-color: rgb(243, 240, 235);
+  color: rgb(15, 15, 15);
+  border-radius: 25px;
+  border: 1px solid rgb(202, 201, 197);
+height: 40px;
+width: 140px;
+font-size: 16px;
+font-weight: 550;
+margin-left: 50px;
+}
+
+.hotCofee {
+  height: 20px;
+  width: 20px;
+  margin-left: 200px;
+}
+.coldCoffee {
+  height: 20px;
+  width: 20px;
+  margin-left: 300px;
+}
+.cupCoffee{
+  height: 20px;
+  width: 20px;
+  margin-left: 400px;
+}
+.dessert {
+height: 20px;
+width: 20px;
+margin-left: 500px;
+}
+
+/* -------------- END OF PAGE 01 LAYOUT -------------- */
+
+.heading {
+  float: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 35px;
+  margin-top: 100px;
+  margin-left: 500px;
+  color: black; /*NOTE: color coordinate kar lena accordingly */
+}
+
+.arrowSliders {
+  float: center;
+}
+
+.btn3 {
+  background-color: rgb(243, 240, 235);
+  color: rgb(15, 15, 15);
+  border-radius: 50px;
+  border: 1px solid rgb(202, 201, 197);
+height: 50px;
+width: 50px;
+font-size: 16px;
+font-weight: 800;
+margin-top: 300px;
+margin-left: 100px;
+margin-right: 1000px;
+}
+
+.btn4 {
+  background-color: rgb(243, 240, 235);
+  color: rgb(15, 15, 15);
+  border-radius: 50px;
+  border: 1px solid rgb(202, 201, 197);
+height: 50px;
+width: 50px;
+font-size: 16px;
+font-weight: 800;
+margin-top: 300px;
+margin-right: 100px;
+}
+
+.coffee-containers {
+  align-content: center;
+}
+
+.coffee-container1 {
+  height: 400px;
+  width: 300px;
+  margin-left: 10px;
+  margin-top: 100px;
+  border-radius: 10px;
+}
+
+/*NOTE: ab na hoga tum dekh lo*/
