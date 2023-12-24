@@ -128,7 +128,7 @@ a.btn1:hover::before {
     position: relative;
     background-color: rgb(7, 7, 7);
     padding: center;
-    margin-right: 445px;
+    margin-right: 350px;
     margin-top: -120px;
 }
 
@@ -151,7 +151,7 @@ a.btn1:hover::before {
     position: relative;
     background-color: rgb(248, 243, 243);
     padding: center;
-    margin-left: 125px;
+    margin-left: 10px;
     margin-top: -120px;
 }
 
